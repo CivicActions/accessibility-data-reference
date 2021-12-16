@@ -1,3 +1,4 @@
+# Originally from https://github.com/GovTechSG/purple-hats/tree/master/constants
 ---
 - wcag: 1.1.1
   href: https://www.w3.org/TR/WCAG21/#non-text-content
