@@ -1,3 +1,4 @@
+# Original source https://github.com/w3c/wai-wcag-quickref/tree/gh-pages/_data
 principles:
   - id: "WCAG2:perceivable"
     num: "1"
