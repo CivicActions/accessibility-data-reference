@@ -28,7 +28,7 @@
 
 - axeType2FPC.yaml - Needed an easier way to compare and reference disability types
 
-## EN 301 549 v3.2.1 - Table B.2 Requirements in clauses 5 to 13 supporting accessibility need 
+## [EN 301 549 v3.2.1 - Table B.2 Requirements in clauses 5 to 13 supporting accessibility need](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
 
 Expressed in Functional Performance Statements (FPS)
 
