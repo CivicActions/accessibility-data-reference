@@ -27,3 +27,11 @@
 ## Comparison of axeTypes & Functional Performance Criteria (FPC)
 
 - axeType2FPC.yaml - Needed an easier way to compare and reference disability types
+
+## EN 301 549 v3.2.1 - Table B.2 Requirements in clauses 5 to 13 supporting accessibility need 
+
+Expressed in Functional Performance Statements (FPS)
+
+- EN301549-to-FPS.csv
+- EN301549-to-FPS.yaml
+
