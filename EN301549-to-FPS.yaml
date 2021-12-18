@@ -1,0 +1,3193 @@
+FPS:
+  SC:
+    - EN301549: 5.1.2.1 Closed functionality
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: P
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: P
+      4.2.10_LC: P
+    - EN301549: 5.1.2.2 Assistive technology
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 5.1.3.1 General (belongs to 5.1.3 Non-visual access)
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.1.3.2 Auditory output delivery including speech
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.1.3.3 Auditory output correlation
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.1.3.4 Speech output user control
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.1.3.5 Speech output automatic interruption
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.1.3.6 Speech output for non-text content
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.1.3.7 Speech output for video information
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.1.3.8 Masked entry
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.1.3.9 Private access to personal data
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.1.3.10 Non-interfering audio output
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.1.3.11 Private listening volume
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: S
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.1.3.12 Speaker volume
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: S
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.1.3.13 Volume reset
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: S
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.1.3.14 Spoken languages
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.1.3.15 Non-visual error identification
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: '"5.1.3.16 Receipts'
+      4.2.1_WV: ' tickets'
+      4.2.2_LV: ' and transactional outputs"'
+      4.2.3_WPC: P
+      4.2.4_WH: S
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+      "4.2.11 P\r": ''
+    - EN301549: 5.1.4 Functionality closed to text enlargement
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 5.1.5 Visual output for auditory information
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.1.6.1 Operation without keyboard interface (closed functionality)
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 5.1.6.2 Operation without keyboard interface (Input focus)
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 5.1.7 Access without speech
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: P
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 5.2 Activation of accessibility features
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 5.3 Biometrics
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: ''
+      4.2.6_WVC: P
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 5.4 Preservation of accessibility information during conversion
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.5.1 Means of operation
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 5.5.2 Operable part discernibility
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 5.6.1 Tactile or auditory status
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.6.2 Visualstatus
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.7 Key repeat
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.8 Double-strike key acceptance
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 5.9 Simultaneous user actions
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 6.1 Audio bandwidth for speech (informative recommendation)
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 6.2.1.1 RTT communication
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: S
+      4.2.6_WVC: S
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 6.2.1.2 Concurrent voice and text
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: S
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 6.2.2.1 Visually distinguishable display
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: S
+      4.2.6_WVC: S
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 6.2.2.2 Programmatically Determinable send and receive direction
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: S
+      4.2.6_WVC: S
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 6.2.2.3 Speaker identification
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: S
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 6.2.2.4 Visual indicator of Audio with RTT
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: S
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 6.2.3 Interoperability
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: S
+      4.2.6_WVC: S
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 6.2.4 RTT responsiveness
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: S
+      4.2.6_WVC: S
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 6.3 Caller ID
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 6.4 Alternatives to voice-based services
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: P
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 6.5.2 Resolution
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: S
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 6.5.3 Frame rate
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: S
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 6.5.4 Synchronization between audio and video
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: S
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 6.5.5 Visual indicator of audio with video
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: S
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 6.5.6 Speaker identification with video (sign language) communication
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: S
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 6.6 Alternatives to video- based services
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: P
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 7.1.1 Captioning playback
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 7.1.2 Captioning synchronization
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 7.1.3 Preservation of captioning
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 7.1.4 Captions characteristics
+      4.2.1_WV: ''
+      4.2.2_LV: S
+      4.2.3_WPC: S
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 7.1.5 Spoken subtitles
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: S
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 7.2.1 Audio description playback
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 7.2.2 Audio description synchronization
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 7.2.3 Preservation of audio description
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 7.3 User controls for captions and audio description
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 8.1.2 Standard connections
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 8.1.3 Colour
+      4.2.1_WV: ''
+      4.2.2_LV: S
+      4.2.3_WPC: P
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 8.2.1.1 Speech volume range
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.2.1.2 Incremental volume control
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.2.2.1 Fixed-line devices
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.2.2.2 Wireless communication devices
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: '"8.3.0 Stationary ICT'
+      4.2.1_WV: ' General (informative recommendation)"'
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: P
+      4.2.10_LC: ''
+      "4.2.11 P\r": ''
+    - EN301549: 8.3.1 Forward or side reach
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.3.2.1 Unobstructed high forward reach
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.3.2.2 Unobstructed low forward reach
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.3.2.3.1 Obstructed forward reach - Clear space
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.3.2.3.2 Obstructed (< 510 mm) forward reach
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.3.2.3.3 Obstructed (< 635 mm) forward reach
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.3.2.4 Knee and toe clearance width
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.3.2.5 Toe clearance
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.3.2.6 Knee clearance
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.3.3.1 Unobstructed high side reach
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.3.3.2 Unobstructed low side reach
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.3.3.3.1 Obstructed (≤ 255 mm) side reach
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.3.3.3.2 Obstructed (≤ 610 mm) side reach
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.3.4.1 Change in level
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.3.4.2 Clear floor or ground space
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.3.4.3.1 Approach - General
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.3.4.3.2 Forward approach
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.3.4.3.3 Parallel approach
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.3.5 Visibility
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.3.6 Installation instructions
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.4.1 Numeric keys
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.4.2.1 Means of operation of mechanical parts
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 8.4.2.2 Force of operation of mechanical parts
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: '"8.4.3 Keys'
+      4.2.1_WV: ' tickets and fare cards"'
+      4.2.2_LV: P
+      4.2.3_WPC: S
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+      "4.2.11 P\r": ''
+    - EN301549: 8.5 Tactile indication of speech mode
+      4.2.1_WV: P
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 9.1.1.1 Non-text content
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: S
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.1.2.1 Audio-only and video-only (pre-recorded)
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.1.2.2 Captions (pre-recorded)
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.1.2.3 Audio description or mediaalternative (pre-recorded)
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.1.2.4 Captions (live)
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.1.2.5 Audio description (pre-recorded)
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.1.3.1 Info and relationships
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.1.3.2 Meaningful sequence
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.1.3.3 Sensory characteristics
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.1.3.4 Orientation
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.1.3.5 Identify input purpose
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 9.1.4.1 Use of colour
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.1.4.2 Audio control
+      4.2.1_WV: P
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.1.4.3 Contrast (minimum)
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.1.4.4 Resize text
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 9.1.4.5 Images of text
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.1.4.10 Reflow
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 9.1.4.11 Non-text contrast
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.1.4.12 Text spacing
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 9.1.4.13 Content on hover or focus
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 9.2.1.1 Keyboard
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 9.2.1.2 No keyboard trap
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 9.2.1.4 Character key shortcuts
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.2.2.1 Timing adjustable
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: '"9.2.2.2 Pause'
+      4.2.1_WV: ' stop'
+      4.2.2_LV: ' hide"'
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: ''
+      4.2.6_WVC: P
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: P
+      4.2.10_LC: ''
+      "4.2.11 P\r": ''
+    - EN301549: 9.2.3.1 Three flashes or below threshold
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: P
+      4.2.10_LC: ''
+    - EN301549: 9.2.4.1 Bypass blocks
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 9.2.4.2 Page titled
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 9.2.4.3 Focus order
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 9.2.4.4 Link purpose (in context)
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 9.2.4.5 Multipleways
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 9.2.4.6 Headings and labels
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: S
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 9.2.4.7 Focus visible
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 9.2.5.1 Pointer gestures
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 9.2.5.2 Pointer cancellation
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 9.2.5.3 Label in name
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.2.5.4 Motion actuation
+      4.2.1_WV: S
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.3.1.1 Language of page
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: S
+      4.2.5_LH: S
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.3.1.2 Language of parts
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: S
+      4.2.5_LH: S
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 9.3.2.1 On focus
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 9.3.2.2 On Input
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 9.3.2.3 Consistent navigation
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 9.3.2.4 Consistent identification
+      4.2.1_WV: S
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 9.3.3.1 Error identification
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 9.3.3.2 Labels or instructions
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: S
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 9.3.3.3 Error suggestion
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: S
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: '"9.3.3.4 Error prevention (legal'
+      4.2.1_WV: ' financial'
+      4.2.2_LV: ' data)"'
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: S
+      4.2.10_LC: ''
+      "4.2.11 P\r": ''
+    - EN301549: 9.4.1.1 Parsing
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: '"9.4.1.2 Name'
+      4.2.1_WV: ' role'
+      4.2.2_LV: ' value"'
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: S
+      4.2.10_LC: ''
+      "4.2.11 P\r": ''
+    - EN301549: 9.4.1.3 Status messages
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: P
+      4.2.10_LC: P
+    - EN301549: 9.6 WCAG Conformance requirements
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: P
+      4.2.10_LC: P
+    - EN301549: 10.1.1.1 Non-text content
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: S
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.1.2.1 Audio-only and video-only (pre-recorded)
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.1.2.2 Captions (pre-recorded) (pre-recorded)
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.1.2.3 Audio description or media alternative (pre-recorded)
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.1.2.4 Captions (live)
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.1.2.5 Audio description
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.1.3.1 Info and relationships
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.1.3.2 Meaningful sequence
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.1.3.3 Sensory characteristics
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.1.3.4 Orientation
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.1.3.5 Identify input Purpose
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 10.1.4.1 Use of colour
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.1.4.2 Audio control
+      4.2.1_WV: P
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.1.4.3 Contrast (minimum)
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.1.4.4 Resize text
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 10.1.4.5 Images of text
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.1.4.10 Reflow
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 10.1.4.11 Non-text contrast
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.1.4.12 Text spacing
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 10.1.4.13 Content on hover or focus
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 10.2.1.1 Keyboard
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 10.2.1.2 No keyboard trap
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 10.2.1.4 Character key shortcuts
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.2.2.1 Timing adjustable
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: '"10.2.2.2 Pause'
+      4.2.1_WV: ' stop'
+      4.2.2_LV: ' hide"'
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: ''
+      4.2.6_WVC: P
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: P
+      4.2.10_LC: ''
+      "4.2.11 P\r": ''
+    - EN301549: 10.2.3.1 Three flashes or below threshold
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: P
+      4.2.10_LC: ''
+    - EN301549: 10.2.4.2 Document titled
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 10.2.4.3 Focus order
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 10.2.4.4 Link purpose (in context)
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 10.2.4.6 Headings and labels
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: S
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 10.2.4.7 Focus visible
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 10.2.5.1 Pointer gestures
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 10.2.5.2 Pointer cancellation
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 10.2.5.3 Label in name
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.2.5.4 Motion actuation
+      4.2.1_WV: S
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.3.1.1 Language of page
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: S
+      4.2.5_LH: S
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.3.1.2 Language of parts
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: S
+      4.2.5_LH: S
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.3.2.1 On focus
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 10.3.2.2 On input
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 10.3.3.1 Error identification
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 10.3.3.2 Labels or instructions
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: S
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 10.3.3.3 Error suggestion
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: S
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: '"10.3.3.4 Error prevention (legal'
+      4.2.1_WV: ' financial'
+      4.2.2_LV: ' data)"'
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: S
+      4.2.10_LC: ''
+      "4.2.11 P\r": ''
+    - EN301549: 10.4.1.1 Parsing
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: '"10.4.1.2 Name'
+      4.2.1_WV: ' role'
+      4.2.2_LV: ' value"'
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: S
+      4.2.10_LC: ''
+      "4.2.11 P\r": ''
+    - EN301549: 10.4.1.3 Status messages
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: P
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: P
+      4.2.10_LC: P
+    - EN301549: '10.5 Caption positioning '
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 10.6 Audio description timing
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.1.1.1 Non-text content (open functionality)
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: S
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.1.1.2 Non-text content (closed functionality)
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: S
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.2.1.1 Audio-only andvideo-only (pre-recorded - open functionality)
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.2.1.2.1 Pre-recorded audio-only (closed functionality)
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.2.1.2.2 Pre-recorded video-only (closed functionality)
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.2.2 Captions (pre-recorded)
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: >-
+        11.1.2.3.1 Audio description or media alternative (pre-recorded - open
+        functionality)
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: >-
+        11.1.2.3.2 Audio description or media alternative (pre-recorded - closed
+        functionality)
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.2.4 Captions (live)
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.2.5 Audio description (pre-recorded)
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.3.1.1 Info and relationships (open functionality)
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.3.1.2 Info and relationships (closed functionality)
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.3.2.1 Meaningful sequence (open functionality)
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.3.2.2 Meaningful sequence(closed functionality)
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.3.3 Sensory characteristics
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.3.4 Orientation
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.3.5.1 Identify input purpose (open functionality)
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 11.1.3.5.2 Identify input purpose (closed functionality)
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 11.1.4.1 Use of colour
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.4.2 Audio control
+      4.2.1_WV: P
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.4.3 Contrast (minimum)
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.4.4.1 Resize text (open functionality)
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 11.1.4.4.2 Resize text (closed functionality)
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 11.1.4.5.1 Images of text (open functionality)
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.4.5.2 Images of text (closed functionality)
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 11.1.4.10 Reflow
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 11.1.4.11 Non-text contrast
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.1.4.12 Text spacing
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 11.1.4.13 Content on hover or focus
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 11.2.1.1.1 Keyboard (open functionality)
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 11.2.1.1.2 Keyboard (closed functionality)
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 11.2.1.2 No keyboard trap
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 11.2.1.4.1 Character key shortcuts (open functionality)
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.2.1.4.2 Character key shortcuts(closed functionality)
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.2.2.1 Timing adjustable
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: '"11.2.2.2 Pause'
+      4.2.1_WV: ' stop'
+      4.2.2_LV: ' hide"'
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: ''
+      4.2.6_WVC: P
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: P
+      4.2.10_LC: ''
+      "4.2.11 P\r": ''
+    - EN301549: 11.2.3.1 Three flashes or below threshold
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: P
+      4.2.10_LC: ''
+    - EN301549: 11.2.4.3 Focus order
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 11.2.4.4 Link purpose (in context)
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 11.2.4.6 Headings and labels
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: S
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 11.2.4.7 Focus visible
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 11.2.5.1 Pointer gestures
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 11.2.5.2 Pointer cancellation
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 11.2.5.3.1 Label in name (open functionality)
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.2.5.3.2 Label in name (closed functionality)
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.2.5.4 Motion actuation
+      4.2.1_WV: S
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.3.1.1.1 Language of software (open functionality)
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: S
+      4.2.5_LH: S
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.3.1.1.2 Language of software (closed functionality)
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: S
+      4.2.5_LH: S
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.3.2.1 On focus
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 11.3.2.2 On input
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 11.3.3.1.1 Error identification (open functionality)
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 11.3.3.1.2 Error Identification (closed functionality)
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 11.3.3.2 Labels or instructions
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: S
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 11.3.3.3 Error suggestion
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: S
+      4.2.7_LMS: S
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: '"11.3.3.4 Error prevention (legal'
+      4.2.1_WV: ' financial'
+      4.2.2_LV: ' data)"'
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: S
+      4.2.10_LC: ''
+      "4.2.11 P\r": ''
+    - EN301549: 11.4.1.1.1 Parsing (open functionality)
+      4.2.1_WV: P
+      4.2.2_LV: S
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 11.4.1.1.2 Parsing (closed functionality)
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: '"11.4.1.2.1 Name'
+      4.2.1_WV: ' role'
+      4.2.2_LV: ' value (open functionality)"'
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: S
+      4.2.10_LC: ''
+      "4.2.11 P\r": ''
+    - EN301549: '"11.4.1.2.2 Name'
+      4.2.1_WV: ' role'
+      4.2.2_LV: ' value (closed functionality)"'
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+      "4.2.11 P\r": ''
+    - EN301549: 11.4.1.3.1 Status messages (open functionality)
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: P
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: P
+      4.2.10_LC: P
+    - EN301549: 11.5.1 Closed functionality
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: >-
+        11.5.2.1 Platform accessibility service support for software that
+        provides a user interface
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: >-
+        11.5.2.2 Platform accessibility service support for assistive
+        technologies
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.5.2.3 Use of accessibility services
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.5.2.4 Assistive technology
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.5.2.5 Object information
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: '"11.5.2.6 Row'
+      4.2.1_WV: ' column'
+      4.2.2_LV: ' and headers"'
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: P
+      4.2.10_LC: ''
+      "4.2.11 P\r": ''
+    - EN301549: 11.5.2.7 Values
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.5.2.8 Label relationships
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.5.2.9 Parent-child relationships
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.5.2.10 Text
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.5.2.11 List of available actions
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.5.2.12 Execution of available actions
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.5.2.13 Tracking of focus and selection attributes
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.5.2.14 Modification of focus and selection attributes
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.5.2.15 Change notification
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.5.2.16 Modifications of states and properties
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.5.2.17 Modifications of values and text
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.6.1 User control of accessibility features
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 11.6.2 No disruption of accessibility features
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 11.7 User preferences
+      4.2.1_WV: ''
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 11.8.1 Content technology
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: P
+      4.2.10_LC: P
+    - EN301549: 11.8.2 Accessible content creation
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: P
+      4.2.10_LC: P
+    - EN301549: 11.8.3 Preservation of accessibility information in transformations
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: P
+      4.2.10_LC: P
+    - EN301549: 11.8.4 Repair assistance
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: P
+      4.2.10_LC: P
+    - EN301549: 11.8.5 Templates
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: P
+      4.2.10_LC: P
+    - EN301549: 12.1.1 Accessibility and compatibility features
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 12.1.2 Accessible documentation
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: P
+      4.2.10_LC: P
+    - EN301549: 12.2.2 Information on accessibility and compatibility features
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: ''
+      4.2.7_LMS: P
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 12.2.3 Effective communication
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: P
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 12.2.4 Accessible documentation
+      4.2.1_WV: P
+      4.2.2_LV: P
+      4.2.3_WPC: P
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: S
+      4.2.7_LMS: P
+      4.2.8_LR: P
+      4.2.9_PST: P
+      4.2.10_LC: P
+    - EN301549: 13.1.2 Text relay services
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: P
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 13.1.3 Sign relay services
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: P
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 13.1.4 Lip-reading relay services
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: P
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 13.1.5 Captioned telephony services
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: P
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: ''
+    - EN301549: 13.1.6 Speech to speech relay services
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: ''
+      4.2.5_LH: ''
+      4.2.6_WVC: ''
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: P
+    - EN301549: 13.2 Access to relay services
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: P
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: 13.3 Access to emergency services
+      4.2.1_WV: ''
+      4.2.2_LV: ''
+      4.2.3_WPC: ''
+      4.2.4_WH: P
+      4.2.5_LH: P
+      4.2.6_WVC: P
+      4.2.7_LMS: ''
+      4.2.8_LR: ''
+      4.2.9_PST: ''
+      4.2.10_LC: S
+    - EN301549: ''
