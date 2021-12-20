@@ -24,6 +24,8 @@
 - axeTypes.yaml is a conversion of axeTypes.json from [Purple Hats](https://github.com/GovTechSG/purple-hats)
 - wcagLinks.yaml is a conversion of wcagLinks.json from [Purple Hats](https://github.com/GovTechSG/purple-hats)
 
+Also see: [axe rule description](https://github.com/dequelabs/axe-core/blob/develop/doc/rule-descriptions.md)
+
 ## Comparison of axeTypes & Functional Performance Criteria (FPC)
 
 - axeType2FPC.yaml - Needed an easier way to compare and reference disability types
