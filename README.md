@@ -38,16 +38,18 @@ Expressed in Functional Performance Statements (FPS)
 - EN301549-to-FPS.yaml
 
 ### EN 301 549 disability types
-**4.2.1. Usage without vision:** Where ICT provides visual modes of operation, some users need ICT to provide at least one mode of operation that does not require vision.
-**4.2.2. Usage with limited vision:** Where ICT provides visual modes of operation, some users will need the ICT to provide features that enable users to make better use of their limited vision.
-**4.2.3. Usage without perception of colour:** Where ICT provides visual modes of operation, some users will need the ICT to provide a visual mode of operation that does not require user perception of colour.
-**4.2.4. Usage without hearing:** Where ICT provides auditory modes of operation, some users need ICT to provide at least one mode of operation that does not require hearing.
-**4.2.5. Usage with limited hearing:** Where ICT provides auditory modes of operation, some users will need the ICT to provide enhanced audio features.
-**4.2.6. Usage without vocal capability:** Where ICT requires vocal input from users, some users will need the ICT to provide at least one mode of operation that does not require them to generate vocal output.
-**4.2.7. Usage with limited manipulation or strength:** Where ICT requires manual actions, some users will need the ICT to provide features that enable users to make use of the ICT through alternative actions not requiring manipulation or hand strength.
-**4.2.8. Usage with limited reach:** Where ICT products are free-standing or installed, the operational elements will need to be within reach of all users.
-**4.2.9. Minimize photosensitive seizure triggers:** Where ICT provides visual modes of operation, some users need ICT to provide at least one mode of operation that minimizes the potential for triggering photosensitive seizures.
-**4.2.10. Usage with limited cognition:** Some users will need the ICT to provide features that make it simpler and easier to use.
-**4.2.11. Privacy:** Where ICT provides features that are provided for accessibility, some users will need their privacy to be maintained when using those ICT features that are provided for accessibility.
+
+- **4.2.1. Usage without vision:** Where ICT provides visual modes of operation, some users need ICT to provide at least one mode of operation that does not require vision.
+- **4.2.2. Usage with limited vision:** Where ICT provides visual modes of operation, some users will need the ICT to provide features that enable users to make better use of their limited vision.
+- **4.2.3. Usage without perception of colour:** Where ICT provides visual modes of operation, some users will need the ICT to provide a visual mode of operation that does not require user perception of colour.
+- **4.2.4. Usage without hearing:** Where ICT provides auditory modes of operation, some users need ICT to provide at least one mode of operation that does not require hearing.
+- **4.2.5. Usage with limited hearing:** Where ICT provides auditory modes of operation, some users will need the ICT to provide enhanced audio features.
+- **4.2.6. Usage without vocal capability:** Where ICT requires vocal input from users, some users will need the ICT to provide at least one mode of operation that does not require them to generate vocal output.
+- **4.2.7. Usage with limited manipulation or strength:** Where ICT requires manual actions, some users will need the ICT to provide features that enable users to make use of the ICT through alternative actions not requiring manipulation or hand strength.
+- **4.2.8. Usage with limited reach:** Where ICT products are free-standing or installed, the operational elements will need to be within reach of all users.
+- **4.2.9. Minimize photosensitive seizure triggers:** Where ICT provides visual modes of operation, some users need ICT to provide at least one mode of operation that minimizes the potential for triggering photosensitive seizures.
+- **4.2.10. Usage with limited cognition:** Some users will need the ICT to provide features that make it simpler and easier to use.
+- **4.2.11. Privacy:** Where ICT provides features that are provided for accessibility, some users will need their privacy to be maintained when using those ICT features that are provided for accessibility.
+
 ## Also See
 - [thisiswcag.com](https://thisiswcag.com)'s [GitHub site](https://github.com/canaxess/thisiswcag) which breaks it down by critieria & [shares a clean data file](https://github.com/canaxess/thisiswcag/blob/main/data/json.js) for WCAG 2.1. 
