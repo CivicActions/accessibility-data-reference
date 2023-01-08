@@ -26,6 +26,9 @@
 
 Also see: [axe rule description](https://github.com/dequelabs/axe-core/blob/develop/doc/rule-descriptions.md)
 
+## NN/g's Usability Heuristics based on [Aligning Jakob Nielsen's 10 Usability Heuristics with the WCAG 2.1](https://rightbadcode.com/aligning-jakob-nielsens-10-usability-heuristics-with-the-wcag-21) and [Usability and Accessibility](https://blog.orium.com/usability-and-accessibility-213c3185314f)
+- NNg-usability-heuristics-wcag.csv
+
 ## Comparison of axeTypes & Functional Performance Criteria (FPC)
 
 - axeType2FPC.yaml - Needed an easier way to compare and reference disability types
