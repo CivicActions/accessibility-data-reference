@@ -56,3 +56,4 @@ Expressed in Functional Performance Statements (FPS)
 
 ## Also See
 - [thisiswcag.com](https://thisiswcag.com)'s [GitHub site](https://github.com/canaxess/thisiswcag) which breaks it down by critieria & [shares a clean data file](https://github.com/canaxess/thisiswcag/blob/main/data/json.js) for WCAG 2.1. 
+- [Tenon: WCAG 2.1 as JSON](https://github.com/tenon-io/wcag-as-json)
