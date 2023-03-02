@@ -70,4 +70,4 @@ Expressed in Functional Performance Statements (FPS)
 - [thisiswcag.com](https://thisiswcag.com)'s GitHub site was taken down but they did have a JSON file with a clean breakdown of critieria [this is a fork of the data file](https://github.com/rjabdurrahman/thisiswcag-beta/blob/main/data/json.js) for WCAG 2.1. 
 - [Tenon: WCAG 2.1 as JSON](https://github.com/tenon-io/wcag-as-json)
 - [a11y-data-keywords](https://github.com/7mary4/a11y-data-keywords) a compiled list of keywords to use when data-mining customer feedback to get the voice of your customers with a disability.
-- Since much of this is axe based, worth pointing out [Deque's tables of axe rules](https://dequeuniversity.com/rules/axe/html).
+- Since much of this is axe based, worth pointing out [Deque's tables of axe rules](https://dequeuniversity.com/rules/axe/html), which in tern links to the [W3C's ACT Rules](https://act-rules.github.io/rules/).
