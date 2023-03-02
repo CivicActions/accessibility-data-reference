@@ -33,6 +33,17 @@ Also see: [axe rule description](https://github.com/dequelabs/axe-core/blob/deve
 
 - axeType2FPC.yaml - Needed an easier way to compare and reference disability types
 
+### Section 508 FPC Disability Types
+WV - Without Vision
+LV - Limited Vision
+WPC - Without Perception of Color
+WH - Without Hearing
+LH - Limited Hearing
+WS - Without Speech
+LM - Limited Manipulation
+LRS - Limited Reach and Strength
+LLCLA - Limited Language, Cognitive, and Learning Abilities
+
 ## [EN 301 549 v3.2.1 - Table B.2 Requirements in clauses 5 to 13 supporting accessibility need](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf)
 
 Expressed in Functional Performance Statements (FPS)
