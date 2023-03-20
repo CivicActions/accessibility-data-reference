@@ -1,83 +1,100 @@
-id,wcag,disabilities
-definition-list,1.3.1,"Blind,Deafblind"
-blink,2.2.2,"Low Vision,Mobility,Cognitive"
-dlitem,1.3.1,"Blind,Deafblind,Mobility"
-html-has-lang,3.1.1,"Blind,Deafblind,Cognitive"
-html-xml-lang-mismatch,3.1.1,"Blind,Deafblind,Cognitive"
-html-lang-valid,3.1.1,"Blind,Deafblind,Cognitive"
-listitem,1.3.1,"Blind,Deaf,Mobility"
-marquee,2.2.2,"Low Vision,Mobility,Cognitive"
-object-alt,1.1.1,"Blind,Deafblind"
-list,1.3.1,"Blind,Deafblind"
-accesskeys,,"Blind,Low Vision,Mobility"
-th-has-data-cells,1.3.1,"Blind,Deafblind"
-area-alt,"1.1.1,2.4.4,4.1.2","Blind,Deafblind,Mobility"
-td-headers-attr,1.3.1,"Blind,Deafblind"
-td-has-header,1.3.1,"Blind,Deafblind"
-region,,"Blind,Deafblind,Mobility"
-aria-valid-attr,4.1.2,"Blind,Deafblind,Mobility"
-aria-valid-attr-value,4.1.2,"Blind,Deafblind,Mobility"
-aria-input-field-name,4.1.2,"Blind,Deafblind,Mobility"
-aria-allowed-role,,"Blind,Deafblind,Mobility"
-aria-roles,4.1.2,"Blind,Deafblind,Mobility"
-aria-toggle-field-name,4.1.2,"Blind,Deafblind,Mobility"
-aria-hidden-focus,4.1.2,"Blind,Low Vision,Deafblind,Mobility"
-aria-hidden-body,4.1.2,Blind
-no-autoplay-audio,1.4.2,"Blind,Deafblind,Cognitive"
-autocomplete-valid,1.3.5,"Attention Deficit,Blind,Low Vision,Deafblind,Mobility,Cognitive"
-landmark-banner-is-top-level,,"Blind,Deafblind"
-p-as-heading,1.3.1,"Blind,Deafblind,Mobility"
-button-name,4.1.2,"Blind,Deafblind"
-aria-required-parent,1.3.1,"Blind,Deafblind,Mobility"
-aria-required-children,1.3.1,"Blind,Deafblind,Mobility"
-landmark-complementary-is-top-level,,"Sighted Keyboard Users,Blind,Deafblind,Mobility"
-landmark-contentinfo-is-top-level,,"Sighted Keyboard Users,Blind,Deafblind"
-css-orientation-lock,1.3.4,"Attention Deficit,Dyslexia,Sighted Keyboard Users,Low Vision,Mobility,Cognitive"
-table-fake-caption,1.3.1,"Blind,Deafblind"
-document-title,2.4.2,"Blind,Deafblind,Mobility"
-role-img-alt,1.1.1,"Blind,Deafblind"
-focus-order-semantics,,"Blind,Deafblind,Mobility"
-tabindex,,"Blind,Deafblind,Mobility"
-aria-allowed-attr,4.1.2,"Blind,Deafblind,Mobility"
-identical-links-same-purpose,2.4.9,"Blind,Deafblind"
-scrollable-region-focusable,2.4.7,"Blind,Deafblind,Mobility"
-label,"1.3.1,4.1.2","Blind,Low Vision,Deafblind,Mobility"
-landmark-no-duplicate-main,,"Blind,Deafblind,Mobility"
-label-title-only,,"Blind,Deafblind,Mobility"
-form-field-multiple-labels,3.3.2,"Blind,Low Vision,Deafblind,Mobility"
-frame-tested,,"Sighted Keyboard Users,Blind,Deafblind"
-frame-title,"2.4.1,4.1.2","Blind,Deafblind,Mobility"
-frame-title-unique,,"Blind,Deafblind,Mobility"
-heading-order,,"Blind,Deafblind,Mobility"
-empty-heading,,"Blind,Deafblind,Mobility"
-hidden-content,,"Sighted Keyboard Users,Blind,Colorblindness"
-duplicate-id-active,4.1.1,"Blind,Deafblind"
-duplicate-id,4.1.1,"Blind,Deafblind"
-duplicate-id-aria,4.1.1,"Blind,Deafblind"
-input-image-alt,1.1.1,"Blind,Deafblind,Mobility"
-image-alt,1.1.1,"Blind,Deafblind"
-avoid-inline-spacing,1.4.12,"Attention Deficit,Blind,Low Vision,Deafblind,Mobility,Cognitive"
-label-content-name-mismatch,2.5.3,"Blind,Low Vision,Deafblind,Mobility"
-input-button-name,4.1.2,"Blind,Deafblind"
-landmark-unique,,"Sighted Keyboard Users,Blind,Deafblind"
-valid-lang,3.1.2,"Blind,Deafblind,Cognitive"
-link-in-text-block,1.4.1,"Low Vision,Colorblindness"
-link-name,"2.4.4,4.1.2","Blind,Deafblind,Mobility"
-landmark-main-is-top-level,,"Blind,Deafblind,Mobility"
-page-has-heading-one,,"Sighted Keyboard Users,Blind,Low Vision,Deafblind"
-landmark-one-main,,"Blind,Deafblind,Mobility"
-bypass,2.4.1,"Blind,Deafblind"
-landmark-no-duplicate-banner,,"Sighted Keyboard Users,Blind,Deafblind"
-landmark-no-duplicate-contentinfo,,"Sighted Keyboard Users,Blind,Deafblind"
-aria-required-attr,4.1.2,"Blind,Deafblind,Mobility"
-scope-attr-valid,,"Blind,Deafblind,Mobility"
-svg-img-alt,1.1.1,"Blind,Deafblind,Mobility"
-server-side-image-map,2.1.1,"Blind,Deafblind,Mobility"
-image-redundant-alt,,"Blind,Deafblind"
-color-contrast,1.4.3,"Low Vision,Colorblindness"
-skip-link,,"Blind,Deafblind,Mobility"
-table-duplicate-name,,"Blind,Deafblind"
-meta-viewport-large,,Low Vision
-aria-roledescription,4.1.2,"Blind,Deafblind,Mobility"
-meta-refresh,"2.2.1,2.2.4,3.2.5","Blind,Deafblind,Mobility"
-meta-viewport,1.4.4,Low Vision
+Rule ID,Description,Impact,Tags,Issue Type,ACT Rules,Disabilities,,,WCAG SC 1,WCAG SC 2,,
+area-alt,Ensures <area> elements of image maps have alternate text,Critical,"cat.text-alternatives, wcag2a, wcag244, wcag412, section508, section508.22.a, ACT","failure, needs review",c487ae,"Blind,Deafblind,Mobility",244,412,2.4.4,4.1.2,412,#VALUE!
+aria-allowed-attr,Ensures ARIA attributes are allowed for an element's role,"Serious, Critical","cat.aria, wcag2a, wcag412","failure, needs review",5c01ea,"Blind,Deafblind,Mobility",412,,4.1.2,,,
+aria-command-name,"Ensures every ARIA button, link and menuitem has an accessible name",Serious,"cat.aria, wcag2a, wcag412, ACT","failure, needs review",97a4e1,"Blind,Low Vision,Mobility",412,,4.1.2,,,
+aria-hidden-body,Ensures aria-hidden='true' is not present on the document body.,Critical,"cat.aria, wcag2a, wcag412",failure,,Blind,412,,4.1.2,,,
+aria-hidden-focus,Ensures aria-hidden elements are not focusable nor contain focusable elements,Serious,"cat.name-role-value, wcag2a, wcag412","failure, needs review",6cfa84,"Blind,Deafblind,Low Vision,Mobility",412,,4.1.2,,,
+aria-input-field-name,Ensures every ARIA input field has an accessible name,"Moderate, Serious","cat.aria, wcag2a, wcag412, ACT","failure, needs review",e086e5,"Blind,Deafblind,Mobility",412,,4.1.2,,,
+aria-meter-name,Ensures every ARIA meter node has an accessible name,Serious,"cat.aria, wcag2a, wcag111","failure, needs review",,"Blind,Low Vision,Mobility",111,,1.1.1,,,
+aria-progressbar-name,Ensures every ARIA progressbar node has an accessible name,Serious,"cat.aria, wcag2a, wcag111","failure, needs review",,"Blind,Low Vision,Mobility",111,,1.1.1,,,
+aria-required-attr,Ensures elements with ARIA roles have all required ARIA attributes,Critical,"cat.aria, wcag2a, wcag412",failure,4e8ab6,"Blind,Deafblind,Mobility",412,,4.1.2,,,
+aria-required-children,Ensures elements with an ARIA role that require child roles contain them,Critical,"cat.aria, wcag2a, wcag131","failure, needs review",bc4a75,"Blind,Low Vision,Mobility",131,,1.3.1,,,
+aria-required-parent,Ensures elements with an ARIA role that require parent roles are contained by them,Critical,"cat.aria, wcag2a, wcag131",failure,ff89c9,"Blind,Deafblind,Mobility",131,,1.3.1,,,
+aria-roledescription,Ensure aria-roledescription is only used on elements with an implicit or explicit role,Serious,"cat.aria, wcag2a, wcag412","failure, needs review",,"Blind,Deafblind,Mobility",412,,4.1.2,,,
+aria-roles,Ensures all elements with a role attribute use a valid value,"Minor, Serious, Critical","cat.aria, wcag2a, wcag412",failure,674b10,"Blind,Deafblind,Mobility",412,,4.1.2,,,
+aria-toggle-field-name,Ensures every ARIA toggle field has an accessible name,"Moderate, Serious","cat.aria, wcag2a, wcag412, ACT","failure, needs review",e086e5,"Blind,Deafblind,Mobility",412,,4.1.2,,,
+aria-tooltip-name,Ensures every ARIA tooltip node has an accessible name,Serious,"cat.aria, wcag2a, wcag412","failure, needs review",,"Blind,Low Vision,Mobility",412,,4.1.2,,,
+aria-valid-attr-value,Ensures all ARIA attributes have valid values,"Serious, Critical","cat.aria, wcag2a, wcag412","failure, needs review",6a7281,"Blind,Deafblind,Mobility",412,,4.1.2,,,
+aria-valid-attr,Ensures attributes that begin with aria- are valid ARIA attributes,Critical,"cat.aria, wcag2a, wcag412",failure,5f99a7,"Blind,Deafblind,Mobility",412,,4.1.2,,,
+audio-caption,Ensures <audio> elements have captions,Critical,"cat.time-and-media, wcag2a, wcag121, section508, section508.22.a",needs review,"2eb176, afb423","Blind,Deafblind",121,,1.2.1,,,
+blink,Ensures <blink> elements are not used,Serious,"cat.time-and-media, wcag2a, wcag222, section508, section508.22.j",failure,,"Low Vision,Mobility,Cognitive",222,,2.2.2,,,
+button-name,Ensures buttons have discernible text,Critical,"cat.name-role-value, wcag2a, wcag412, section508, section508.22.a, ACT","failure, needs review","97a4e1, m6b1q3","Blind,Deafblind",412,,4.1.2,,,
+bypass,Ensures each page has at least one mechanism for a user to bypass navigation and jump straight to the content,Serious,"cat.keyboard, wcag2a, wcag241, section508, section508.22.o",needs review,"cf77f2, 047fe0, b40fd1, 3e12e1, ye5d6e","Blind,Deafblind",241,,2.4.1,,,
+color-contrast,Ensures the contrast between foreground and background colors meets WCAG 2 AA contrast ratio thresholds,Serious,"cat.color, wcag2aa, wcag143, ACT","failure, needs review","afw4f7, 09o5cg","Low Vision,Colorblindness",143,,1.4.3,,,
+definition-list,Ensures <dl> elements are structured correctly,Serious,"cat.structure, wcag2a, wcag131",failure,,"Blind,Deafblind",131,,1.3.1,,,
+dlitem,Ensures <dt> and <dd> elements are contained by a <dl>,Serious,"cat.structure, wcag2a, wcag131",failure,,"Blind,Deafblind",131,,1.3.1,,,
+document-title,Ensures each HTML document contains a non-empty <title> element,Serious,"cat.text-alternatives, wcag2a, wcag242, ACT",failure,2779a5,"Blind,Deafblind,Mobility",242,,2.4.2,,,
+duplicate-id-active,Ensures every id attribute value of active elements is unique,Serious,"cat.parsing, wcag2a, wcag411",failure,3ea0c8,"Blind,Deafblind",411,,4.1.1,,,
+duplicate-id-aria,Ensures every id attribute value used in ARIA and in labels is unique,Critical,"cat.parsing, wcag2a, wcag411",failure,3ea0c8,"Blind,Deafblind",411,,4.1.1,,,
+duplicate-id,Ensures every id attribute value is unique,Minor,"cat.parsing, wcag2a, wcag411",failure,3ea0c8,"Blind,Deafblind",411,,4.1.1,,,
+form-field-multiple-labels,Ensures form field does not have multiple label elements,Moderate,"cat.forms, wcag2a, wcag332",needs review,,"Blind,Low Vision,Deafblind,Mobility",332,,3.3.2,,,
+frame-focusable-content,Ensures <frame> and <iframe> elements with focusable content do not have tabindex=-1,Serious,"cat.keyboard, wcag2a, wcag211","failure, needs review",akn7bn,"Blind,Deafblind,Mobility",211,,2.1.1,,,
+frame-title-unique,Ensures <iframe> and <frame> elements contain a unique title attribute,Serious,"cat.text-alternatives, wcag412, wcag2a",needs review,4b1c6c,"Blind,Deafblind,Mobility",412,,4.1.2,,,
+frame-title,Ensures <iframe> and <frame> elements have an accessible name,Serious,"cat.text-alternatives, wcag2a, wcag412, section508, section508.22.i","failure, needs review",cae760,"Blind,Deafblind,Mobility",412,,4.1.2,,,
+html-has-lang,Ensures every HTML document has a lang attribute,Serious,"cat.language, wcag2a, wcag311, ACT",failure,b5c3f8,"Blind,Deafblind,Cognitive",311,,3.1.1,,,
+html-lang-valid,Ensures the lang attribute of the <html> element has a valid value,Serious,"cat.language, wcag2a, wcag311, ACT",failure,bf051a,"Blind,Deafblind,Cognitive",311,,3.1.1,,,
+html-xml-lang-mismatch,Ensure that HTML elements with both valid lang and xml:lang attributes agree on the base language of the page,Moderate,"cat.language, wcag2a, wcag311, ACT",failure,5b7ae0,"Blind,Deafblind,Cognitive",311,,3.1.1,,,
+image-alt,Ensures <img> elements have alternate text or a role of none or presentation,Critical,"cat.text-alternatives, wcag2a, wcag111, section508, section508.22.a, ACT","failure, needs review",23a2a8,"Blind,Deafblind",111,,1.1.1,,,
+input-button-name,Ensures input buttons have discernible text,Critical,"cat.name-role-value, wcag2a, wcag412, section508, section508.22.a, ACT","failure, needs review",97a4e1,"Blind,Deafblind",412,,4.1.2,,,
+input-image-alt,"Ensures <input type=""image""> elements have alternate text",Critical,"cat.text-alternatives, wcag2a, wcag111, wcag412, section508, section508.22.a, ACT","failure, needs review",59796f,"Blind,Deafblind,Mobility",111,412,1.1.1,4.1.2,,
+label,Ensures every form element has a label,"Minor, Critical","cat.forms, wcag2a, wcag412, section508, section508.22.n, ACT","failure, needs review",e086e5,"Blind,Deafblind,Mobility",412,,4.1.2,,,
+link-in-text-block,Ensure links are distinguished from surrounding text in a way that does not rely on color,Serious,"cat.color, wcag2a, wcag141","failure, needs review",,"Low Vision,Colorblindness",141,,1.4.1,,,
+link-name,Ensures links have discernible text,Serious,"cat.name-role-value, wcag2a, wcag412, wcag244, section508, section508.22.a, ACT","failure, needs review",c487ae,"Sighted Keyboard Users,Blind,Deafblind",244,412,2.4.4,4.1.2,,
+list,Ensures that lists are structured correctly,Serious,"cat.structure, wcag2a, wcag131",failure,,"Sighted Keyboard Users,Blind,Deafblind",131,,1.3.1,,,
+listitem,Ensures <li> elements are used semantically,Serious,"cat.structure, wcag2a, wcag131",failure,,"Blind,Deafblind,Mobility",131,,1.3.1,,,
+marquee,Ensures <marquee> elements are not used,Serious,"cat.parsing, wcag2a, wcag222",failure,,"Blind,Deafblind,Mobility",222,,2.2.2,,,
+meta-refresh,"Ensures <meta http-equiv=""refresh""> is not used for delayed refresh",Critical,"cat.time-and-media, wcag2a, wcag221",failure,"bc659a, bisz58","Blind,Deafblind,Mobility",221,,2.2.1,,,
+meta-viewport,"Ensures <meta name=""viewport""> does not disable text scaling and zooming",Critical,"cat.sensory-and-visual-cues, wcag2aa, wcag144, ACT",failure,b4f0c3,"Blind,Deafblind,Mobility",144,,1.4.4,,,
+nested-interactive,Ensures interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies,Serious,"cat.keyboard, wcag2a, wcag412","failure, needs review",307n5z,"Blind,Deafblind,Mobility",412,,4.1.2,,,
+no-autoplay-audio,Ensures <video> or <audio> elements do not autoplay audio for more than 3 seconds without a control mechanism to stop or mute the audio,Moderate,"cat.time-and-media, wcag2a, wcag142, ACT",needs review,80f0bf,"Blind,Deafblind,Mobility",142,,1.4.2,,,
+object-alt,Ensures <object> elements have alternate text,Serious,"cat.text-alternatives, wcag2a, wcag111, section508, section508.22.a","failure, needs review",8fc3b6,"Blind,Deafblind,Mobility",111,,1.1.1,,,
+role-img-alt,Ensures [role='img'] elements have alternate text,Serious,"cat.text-alternatives, wcag2a, wcag111, section508, section508.22.a, ACT","failure, needs review",23a2a8,"Blind,Deafblind,Mobility",111,,1.1.1,,,
+scrollable-region-focusable,Ensure elements that have scrollable content are accessible by keyboard,Moderate,"cat.keyboard, wcag2a, wcag211",failure,0ssw9k,Low Vision,211,,2.1.1,,,
+select-name,Ensures select element has an accessible name,"Minor, Critical","cat.forms, wcag2a, wcag412, section508, section508.22.n, ACT","failure, needs review",e086e5,Low Vision,412,,4.1.2,,,
+server-side-image-map,Ensures that server-side image maps are not used,Minor,"cat.text-alternatives, wcag2a, wcag211, section508, section508.22.f",needs review,,Low Vision,211,,2.1.1,,,
+svg-img-alt,"Ensures <svg> elements with an img, graphics-document or graphics-symbol role have an accessible text",Serious,"cat.text-alternatives, wcag2a, wcag111, section508, section508.22.a, ACT","failure, needs review",7d6734,Low Vision,111,,1.1.1,,,
+td-headers-attr,Ensure that each cell in a table that uses the headers attribute refers only to other cells in that table,Serious,"cat.tables, wcag2a, wcag131, section508, section508.22.g","failure, needs review",a25f45,Low Vision,131,,1.3.1,,,
+th-has-data-cells,Ensure that <th> elements and elements with role=columnheader/rowheader have data cells they describe,Serious,"cat.tables, wcag2a, wcag131, section508, section508.22.g","failure, needs review",d0f69e,Low Vision,131,,1.3.1,,,
+valid-lang,Ensures lang attributes have valid values,Serious,"cat.language, wcag2aa, wcag312, ACT",failure,de46e4,Low Vision,312,,3.1.2,,,
+video-caption,Ensures <video> elements have captions,Critical,"cat.text-alternatives, wcag2a, wcag122, section508, section508.22.a",needs review,eac66b,Low Vision,122,,1.2.2,,,
+autocomplete-valid,Ensure the autocomplete attribute is correct and suitable for the form field,Serious,"cat.forms, wcag21aa, wcag135, ACT",failure,73f2c2,"Blind,Deafblind,Mobility",135,,1.3.5,,,
+avoid-inline-spacing,Ensure that text spacing set through style attributes can be adjusted with custom stylesheets,Serious,"cat.structure, wcag21aa, wcag1412, ACT",failure,"24afc2, 9e45ec, 78fd32","Blind,Deafblind,Mobility",1412,,1.4.12,,,
+target-size,Ensure touch target have sufficient size and space,Serious,"wcag22aa, wcag258, cat.sensory-and-visual-cues","failure, needs review",,Low Vision,258,,2.5.8,,,
+accesskeys,Ensures every accesskey attribute value is unique,Serious,"cat.keyboard, best-practice",failure,,"Blind,Deafblind,Mobility",,,,,,
+aria-allowed-role,Ensures role attribute has an appropriate value for the element,Minor,"cat.aria, best-practice","failure, needs review",,"Blind,Deafblind,Mobility",,,,,,
+aria-dialog-name,Ensures every ARIA dialog and alertdialog node has an accessible name,Serious,"cat.aria, best-practice","failure, needs review",,"Blind,Deafblind,Mobility",,,,,,
+aria-text,"Ensures ""role=text"" is used on elements with no focusable descendants",Serious,"cat.aria, best-practice","failure, needs review",,"Blind,Mobility",,,,,,
+aria-treeitem-name,Ensures every ARIA treeitem node has an accessible name,Serious,"cat.aria, best-practice","failure, needs review",,"Blind,Low Vision,Mobility",,,,,,
+empty-heading,Ensures headings have discernible text,Minor,"cat.name-role-value, best-practice","failure, needs review",ffd0e9,"Blind,Deafblind,Mobility",,,,,,
+empty-table-header,Ensures table headers have discernible text,Minor,"cat.name-role-value, best-practice","failure, needs review",,"Blind,Deafblind,Mobility",,,,,,
+frame-tested,Ensures <iframe> and <frame> elements contain the axe-core script,Critical,"cat.structure, review-item, best-practice","failure, needs review",,"Low Vision,Colorblindness",,,,,,
+heading-order,Ensures the order of headings is semantically correct,Moderate,"cat.semantics, best-practice","failure, needs review",,"Low Vision,Colorblindness",,,,,,
+image-redundant-alt,Ensure image alternative is not repeated as text,Minor,"cat.text-alternatives, best-practice",failure,,"Blind,Deafblind,Mobility",,,,,,
+label-title-only,"Ensures that every form element has a visible label and is not solely labeled using hidden labels, or the title or aria-describedby attributes",Serious,"cat.forms, best-practice",failure,,"Sighted Keyboard Users,Blind,Deafblind",,,,,,
+landmark-banner-is-top-level,Ensures the banner landmark is at top level,Moderate,"cat.semantics, best-practice",failure,,"Low Vision,Colorblindness",,,,,,
+landmark-complementary-is-top-level,Ensures the complementary landmark or aside is at top level,Moderate,"cat.semantics, best-practice",failure,,"Low Vision,Colorblindness",,,,,,
+landmark-contentinfo-is-top-level,Ensures the contentinfo landmark is at top level,Moderate,"cat.semantics, best-practice",failure,,"Low Vision,Colorblindness",,,,,,
+landmark-main-is-top-level,Ensures the main landmark is at top level,Moderate,"cat.semantics, best-practice",failure,,"Low Vision,Colorblindness",,,,,,
+landmark-no-duplicate-banner,Ensures the document has at most one banner landmark,Moderate,"cat.semantics, best-practice",failure,,"Blind,Deafblind,Mobility",,,,,,
+landmark-no-duplicate-contentinfo,Ensures the document has at most one contentinfo landmark,Moderate,"cat.semantics, best-practice",failure,,"Blind,Deafblind,Mobility",,,,,,
+landmark-no-duplicate-main,Ensures the document has at most one main landmark,Moderate,"cat.semantics, best-practice",failure,,"Blind,Deafblind,Mobility",,,,,,
+landmark-one-main,Ensures the document has a main landmark,Moderate,"cat.semantics, best-practice",failure,,"Blind,Deafblind,Mobility",,,,,,
+landmark-unique,Landmarks should have a unique role or role/label/title (i.e. accessible name) combination,Moderate,"cat.semantics, best-practice",failure,,"Sighted Keyboard Users,Blind,Deafblind",,,,,,
+meta-viewport-large,"Ensures <meta name=""viewport""> can scale a significant amount",Minor,"cat.sensory-and-visual-cues, best-practice",failure,,Low Vision,,,,,,
+page-has-heading-one,"Ensure that the page, or at least one of its frames contains a level-one heading",Moderate,"cat.semantics, best-practice",failure,,"Sighted Keyboard Users,Blind,Deafblind",,,,,,
+presentation-role-conflict,Elements marked as presentational should not have global ARIA or tabindex to ensure all screen readers ignore them,Minor,"cat.aria, best-practice, ACT",failure,46ca7f,"Blind,Deafblind,Mobility",,,,,,
+region,Ensures all page content is contained by landmarks,Moderate,"cat.keyboard, best-practice",failure,,"Blind,Deafblind,Mobility",,,,,,
+scope-attr-valid,Ensures the scope attribute is used correctly on tables,"Moderate, Critical","cat.tables, best-practice",failure,,"Blind,Deafblind,Mobility",,,,,,
+skip-link,Ensure all skip links have a focusable target,Moderate,"cat.keyboard, best-practice","failure, needs review",,"Blind,Deafblind,Mobility",,,,,,
+tabindex,Ensures tabindex attribute values are not greater than 0,Serious,"cat.keyboard, best-practice",failure,,"Blind,Deafblind,Mobility",,,,,,
+table-duplicate-name,Ensure the <caption> element does not contain the same text as the summary attribute,Minor,"cat.tables, best-practice","failure, needs review",,"Blind,Deafblind",,,,,,
+color-contrast-enhanced,Ensures the contrast between foreground and background colors meets WCAG 2 AAA contrast ratio thresholds,Serious,"cat.color, wcag2aaa, wcag146, ACT","failure, needs review",09o5cg,Low Vision,146,,1.4.6,,,
+identical-links-same-purpose,Ensure that links with the same accessible name serve a similar purpose,Minor,"cat.semantics, wcag2aaa, wcag249",needs review,b20e66,"Blind,Deafblind",249,,2.4.9,,,
+meta-refresh-no-exceptions,"Ensures <meta http-equiv=""refresh""> is not used for delayed refresh",Minor,"cat.time-and-media, wcag2aaa, wcag224, wcag325",failure,bisz58,"Blind,Deafblind,Mobility",224,325,2.2.4,3.2.5,,
+css-orientation-lock,"Ensures content is not locked to any specific display orientation, and the content is operable in all display orientations",Serious,"cat.structure, wcag134, wcag21aa, experimental","failure, needs review",b33eff,"Attention Deficit,Dyslexia,Sighted Keyboard Users,Low Vision,Mobility,Cognitive",134,,1.3.4,,,
+focus-order-semantics,Ensures elements in the focus order have a role appropriate for interactive content,Minor,"cat.keyboard, best-practice, experimental",failure,,"Blind,Deafblind,Mobility",,,,,,
+hidden-content,Informs users about hidden content.,Minor,"cat.structure, experimental, review-item, best-practice","failure, needs review",,"Sighted Keyboard Users,Blind,Colorblindness",,,,,,
+label-content-name-mismatch,Ensures that elements labelled through their content must have their visible text as part of their accessible name,Serious,"cat.semantics, wcag21a, wcag253, experimental",failure,2ee8b8,"Blind,Low Vision,Deafblind,Mobility",253,,2.5.3,,,
+p-as-heading,"Ensure bold, italic text and font-size is not used to style <p> elements as a heading",Serious,"cat.semantics, wcag2a, wcag131, experimental","failure, needs review",,"Blind,Deafblind,Mobility",131,,1.3.1,,,
+table-fake-caption,Ensure that tables with a caption use the <caption> element.,Serious,"cat.tables, experimental, wcag2a, wcag131, section508, section508.22.g",failure,,"Blind,Deafblind",131,,1.3.1,,,
+td-has-header,Ensure that each non-empty data cell in a <table> larger than 3 by 3 has one or more table headers,Critical,"cat.tables, experimental, wcag2a, wcag131, section508, section508.22.g",failure,,"Blind,Deafblind",131,,1.3.1,,,
