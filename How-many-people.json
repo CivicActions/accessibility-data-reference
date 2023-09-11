@@ -1,0 +1,273 @@
+[
+    {
+        "measure": "Vision",
+        "percent": 77,
+        "source": "",
+        "summary": "This includes blindness, low or poor vision and other conditions like cataracts.",
+        "type": "a"
+    },
+    {
+        "measure": "Dyslexia",
+        "percent": 10,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/simone-dyslexic-user",
+        "type": "a"
+    },
+    {
+        "measure": "British Sign Language user",
+        "percent": 0.23,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/saleem-profoundly-deaf-user",
+        "type": "a"
+    },
+    {
+        "measure": "English not first language",
+        "percent": 9,
+        "source": "https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/language/bulletins/languageenglandandwales/census2021",
+        "type": "a"
+    },
+    {
+        "measure": "Colour vision deficiency (Men)",
+        "percent": 8,
+        "source": "https://www.colourblindawareness.org/colour-blindness/",
+        "summary": "Colour-blindness is more prevelant in men and affects around 1 in 10 men compared to 1 in 100 women",
+        "type": "a"
+    },
+    {
+        "measure": "Colour vision deficiency (Women)",
+        "percent": 0.8,
+        "source": "https://www.colourblindawareness.org/colour-blindness/",
+        "summary": "Colour-blindnes affects around 1 in 100 women and is less prevelant than in men.",
+        "type": "a"
+    },
+    {
+        "measure": "Discalculia",
+        "percent": 6.0,
+        "source": "https://www.bdadyslexia.org.uk/dyscalculia/how-can-i-identify-dyscalculia",
+        "summary": "Dyscalculia affects a person's ability to understand, learn, and perform mathematical operations.",
+        "type": "a"
+    },
+    {
+        "measure": "Low numeracy",
+        "percent": 49.0,
+        "source": "https://www.nationalnumeracy.org.uk/research-and-resources/skills-life-survey-2011",
+        "type": "a"
+    },
+    {
+        "measure": "Hearing loss",
+        "percent": 18,
+        "source": "https://rnid.org.uk/about-us/research-and-policy/facts-and-figures/#:~:text=In%20the%20UK%20there%20are,to%201%20in%205%20adults",
+        "type": "a"
+    },
+    {
+        "measure": "Low literacy",
+        "percent": 16.4,
+        "source": "https://literacytrust.org.uk/parents-and-families/adult-literacy/what-do-adult-literacy-levels-mean/",
+        "type": "a"
+    },
+    {
+        "measure": "Any disability",
+        "percent": 22,
+        "source": "https://researchbriefings.files.parliament.uk/documents/CBP-9602/CBP-9602.pdf",
+        "type": "a"
+    },
+    {
+        "measure": "Learning impairment",
+        "percent": 11,
+        "source": "https://researchbriefings.files.parliament.uk/documents/CBP-9602/CBP-9602.pdf",
+        "type": "a"
+    },
+    {
+        "measure": "Memory impairment",
+        "percent": 11,
+        "source": "https://researchbriefings.files.parliament.uk/documents/CBP-9602/CBP-9602.pdf",
+        "type": "a"
+    },
+    {
+        "measure": "Dexterity impairment",
+        "percent": 23,
+        "source": "https://researchbriefings.files.parliament.uk/documents/CBP-9602/CBP-9602.pdf",
+        "type": "a"
+    },
+    {
+        "measure": "Mental health impairment",
+        "percent": 29,
+        "source": "https://researchbriefings.files.parliament.uk/documents/CBP-9602/CBP-9602.pdf",
+        "type": "a"
+    },
+    {
+        "measure": "Autism",
+        "percent": 1.5,
+        "source": "https://www.autism.org.uk/advice-and-guidance/what-is-autism#:~:text=Autism%20is%20a%20lifelong%20developmental,and%20children%20in%20the%20UK.",
+        "type": "a"
+    },
+    {
+        "measure": "Anxiety disorder",
+        "percent": 15,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/pawel-user-with-aspergers",
+        "type": "a"
+    },
+    {
+        "measure": "ADHD - 0-19 years old",
+        "percent": 5,
+        "source": "https://adhduk.co.uk/adhd-incidence/",
+        "type": "a"
+    },
+    {
+        "measure": "ADHD - 20 years old and over",
+        "percent": 3.5,
+        "source": "https://adhduk.co.uk/adhd-incidence/",
+        "type": "a"
+    },
+    {
+        "measure": "Bipolar disorder",
+        "percent": 2,
+        "source": "https://www.bipolaruk.org/faqs",
+        "type": "a"
+    },
+    {
+        "measure": "Female teachers",
+        "percent": 76,
+        "source": "https://www.ethnicity-facts-figures.service.gov.uk/workforce-and-business/workforce-diversity/school-teacher-workforce/latest#main-facts-and-figures",
+        "type": "b"
+    },
+    {
+        "measure": "Male teachers",
+        "percent": 24,
+        "source": "https://www.ethnicity-facts-figures.service.gov.uk/workforce-and-business/workforce-diversity/school-teacher-workforce/latest#main-facts-and-figures",
+        "type": "b"
+    },
+    {
+        "measure": "All teachers across ethnicity",
+        "percent": 100.0,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/saleem-profoundly-deaf-user",
+        "type": "c"
+    },
+    {
+        "measure": "Bangladeshi",
+        "percent": 0.7,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/saleem-profoundly-deaf-user",
+        "type": "c"
+    },
+    {
+        "measure": "Indian",
+        "percent": 2.0,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/saleem-profoundly-deaf-user",
+        "type": "c"
+    },
+    {
+        "measure": "Pakistani",
+        "percent": 1.3,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/saleem-profoundly-deaf-user",
+        "type": "c"
+    },
+    {
+        "measure": "Asian Other",
+        "percent": 0.8,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/saleem-profoundly-deaf-user",
+        "type": "c"
+    },
+    {
+        "measure": "Black African",
+        "percent": 1.0,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/saleem-profoundly-deaf-user",
+        "type": "c"
+    },
+    {
+        "measure": "Black Caribbean",
+        "percent": 1.1,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/saleem-profoundly-deaf-user",
+        "type": "c"
+    },
+    {
+        "measure": "Black Other",
+        "percent": 0.4,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/saleem-profoundly-deaf-user",
+        "type": "c"
+    },
+    {
+        "measure": "Chinese",
+        "percent": 0.2,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/saleem-profoundly-deaf-user",
+        "type": "c"
+    },
+    {
+        "measure": "Mixed White And Asian",
+        "percent": 0.4,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/saleem-profoundly-deaf-user",
+        "type": "c"
+    },
+    {
+        "measure": "Mixed White And Black African",
+        "percent": 0.1,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/saleem-profoundly-deaf-user",
+        "type": "c"
+    },
+    {
+        "measure": "Mixed White And Black Caribbean",
+        "percent": 0.4,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/saleem-profoundly-deaf-user",
+        "type": "c"
+    },
+    {
+        "measure": "Mixed Other",
+        "percent": 0.6,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/saleem-profoundly-deaf-user",
+        "type": "c"
+    },
+    {
+        "measure": "White British",
+        "percent": 85.1,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/saleem-profoundly-deaf-user",
+        "type": "c"
+    },
+    {
+        "measure": "White Irish",
+        "percent": 1.4,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/saleem-profoundly-deaf-user",
+        "type": "c"
+    },
+    {
+        "measure": "White Other",
+        "percent": 3.8,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/saleem-profoundly-deaf-user",
+        "type": "c"
+    },
+    {
+        "measure": "Any Other Ethnic Group",
+        "percent": 0.6,
+        "source": "https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles/saleem-profoundly-deaf-user",
+        "type": "c"
+    },
+    {
+        "measure": "People with no access to the internet",
+        "percent": 6,
+        "source": "https://www.ofcom.org.uk/__data/assets/pdf_file/0022/234364/digital-exclusion-review-2022.pdf",
+        "type": "d"
+    },
+    {
+        "measure": "Households that only use mobile devices to access the internet",
+        "percent": 21,
+        "source": "https://www.ofcom.org.uk/__data/assets/pdf_file/0022/234364/digital-exclusion-review-2022.pdf",
+        "type": "d"
+    },
+    {
+        "measure": "Households that only use mobile devices to access the internet",
+        "percent": 21,
+        "source": "https://www.ofcom.org.uk/__data/assets/pdf_file/0022/234364/digital-exclusion-review-2022.pdf",
+        "type": "d"
+    },
+    {
+        "measure": "All age groups with zero digital skills",
+        "percent": 8,
+        "source": "https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/articles/exploringtheuksdigitaldivide/2019-03-04",
+        "type": "d",
+        "summary": "Where people have none of the 5 digital skills."
+    },
+    {
+        "measure": "All age groups with limited digital skills",
+        "percent": 12,
+        "source": "https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/articles/exploringtheuksdigitaldivide/2019-03-04",
+        "type": "d",
+        "summary": "Where people are missing at least one of the 5 digital skills."
+    }
+    
+]
