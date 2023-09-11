@@ -69,8 +69,8 @@ Expressed in Functional Performance Statements (FPS)
 ## How many people have a disability? 
 
 From [UK Department for Education - Design Manual](https://design.education.gov.uk/learn/how-many-users) and their [GitHub Repository](https://github.com/DFE-Digital/design/blob/main/app/data/stats.json).
-- How-many-people.json
-- How-many-people.csv
+- UK-How-many-people.json
+- UK-How-many-people.csv
 
 ## Also See
 - [thisiswcag.com](https://thisiswcag.com)'s GitHub site was taken down but they did have a JSON file with a clean breakdown of critieria [this is a fork of the data file](https://github.com/rjabdurrahman/thisiswcag-beta/blob/main/data/json.js) for WCAG 2.1. 
