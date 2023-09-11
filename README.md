@@ -66,7 +66,7 @@ Expressed in Functional Performance Statements (FPS)
 - **4.2.10. Usage with limited cognition:** Some users will need the ICT to provide features that make it simpler and easier to use.
 - **4.2.11. Privacy:** Where ICT provides features that are provided for accessibility, some users will need their privacy to be maintained when using those ICT features that are provided for accessibility.
 
-## How many peole have a disability? 
+## How many people have a disability? 
 
 From [UK Department for Education - Design Manual](https://design.education.gov.uk/learn/how-many-users) and their [GitHub Repository](https://github.com/DFE-Digital/design/blob/main/app/data/stats.json).
 - How-many-people.json
